@@ -4,6 +4,6 @@
 ### Frontend Engineering - HTML/CSS/JS / Flutter
 ### DevOps Engineering
 ### ML Engineering
-### Data Science - 
+### Data Science - Algorithms
 ### dgfgdg
 ### dgfgdg
